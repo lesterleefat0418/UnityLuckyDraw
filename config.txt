@@ -1,0 +1,5 @@
+{
+    "luckyDrawPhraseFileName": "CSV/LuckyDraw-Phase1_uat",
+    "recordCSVFolderName": "Record",
+    "startBtnIdling": -1.0
+}
